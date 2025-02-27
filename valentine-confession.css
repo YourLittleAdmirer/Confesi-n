@@ -19,7 +19,7 @@ body {
 .instruction{
 	position: absolute;
 	font-size: 1.6rem;
-	color: rgba(255, 0, 0, 0.554);
+	color: rgba(21, 93, 255, 0.8);
 	top: 36%;
 	left: 50%;
 	transform: translate(-50%, -50%);
